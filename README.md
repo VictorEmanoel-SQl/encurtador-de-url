@@ -25,7 +25,7 @@ Projeto simples desenvolvido em Python para encurtar URLs utilizando a bibliotec
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/encurtador-url-python.git
+git clone https://github.com/VictorEmanoel-SQl/encurtador-de-url.git
 ```
 
 Acesse a pasta do projeto:
