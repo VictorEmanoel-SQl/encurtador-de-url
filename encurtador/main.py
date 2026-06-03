@@ -4,7 +4,7 @@ except ImportError:
     print("Erro: pyshorteners não está instalado")
     print("Instale usando: pip install pyshorteners")
     exit()
-
+print("\n ===========Bem-vindo ao Encurtador de URLs! ===========")
 url_longa = input("Digite a URL longa que deseja encurtar: ")
 
 try:
